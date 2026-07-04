@@ -1,0 +1,18 @@
+baseURL = 'https://aardvark03.github.io/'
+title = "Homo Ludens"
+theme = "PaperMod"
+metaDataFormat = "yaml"
+contentDir = "content"
+
+[params]
+  mainSections = ["posts"]
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 2
+
+[[menu.main]]
+name = "Posts"
+url = "/posts/"
+weight = 1
