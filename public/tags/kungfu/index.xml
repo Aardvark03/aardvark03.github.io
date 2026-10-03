@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kungfu on Homo Ludens</title>
+    <link>http://localhost:1313/tags/kungfu/</link>
+    <description>Recent content in Kungfu on Homo Ludens</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/kungfu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forms and Fighting</title>
+      <link>http://localhost:1313/posts/forms-and-fighting/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/forms-and-fighting/</guid>
+      <description>&lt;p&gt;Fixed movement patterns, forms, are central to any martial art. You want to get better at a certain way of moving, so you focus on a movement and try to work the desired quality in isolation. If a boxer wants to get better at hitting hard, he practises his punches in isolation. Or he might practise his footwork. Forms can also be practised with a partner, maybe pad combinations involving ducking and weaving. In traditional martial arts, forms might even be at the center of the training, involving complex patterns stringed together into long sequences.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
