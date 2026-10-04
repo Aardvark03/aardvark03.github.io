@@ -10,9 +10,24 @@ contentDir = "content"
 [[menu.main]]
 name = "About"
 url = "/about/"
+weight = 5
+
+[[menu.main]]
+name = "Martial Arts"
+url = "/tags/kungfu"
+weight = 4
+
+[[menu.main]]
+name = "Ideas"
+url = "/tags/ideas"
+weight = 3
+
+[[menu.main]]
+name = "Physio"
+url = "/tags/physio"
 weight = 2
 
 [[menu.main]]
-name = "Posts"
+name = "All Posts"
 url = "/posts/"
 weight = 1
